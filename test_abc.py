@@ -1,3 +1,4 @@
 print("usando VSCODE and github")
-print("solo dos lineas")
-print("tercera linea")
+print("dos lineas")
+print("tres lineas")
+print("cuarta linea")
